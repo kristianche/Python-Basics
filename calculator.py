@@ -1,7 +1,17 @@
+import time
+
 print('####                    Welcome to Calculator!                      ####')
+
+time.sleep(2)
+
 print('####            This is a simple calculator console app.            ####')
 print('####                   Created by kristianche/2025                  ####')
+
+time.sleep(2)
+
 print('####       When you wish to stop using it just type: "End"          ####')
+
+time.sleep(2)
 
 command = input('Insert operation( + - * / ) or type "End":  ')
 
